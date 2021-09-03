@@ -1,8 +1,8 @@
-##Spring Boot Book Seller Application
+## Spring Boot Book Seller Application
 
-###EndPoints
+### EndPoints
 
-####Sign-up
+#### Sign-up
 
 ```
 POST /api/authentication/sign-up HTTP/1.1
@@ -16,7 +16,7 @@ Content-Type: application/json
 }
 ```
 
-####Sign-in
+#### Sign-in
 
 ```
 POST /api/authentication/sign-in HTTP/1.1
